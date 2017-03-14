@@ -1,0 +1,131 @@
+.all_layout {
+  margin: o;
+  padding: o;
+  width: 100%;
+}
+.header {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.header_one {
+    background-color: rgba(36, 210, 36, 0.39);
+    border: 4px solid black;
+    display: inline-block;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    width: 30%;
+	
+}	
+.header_two {
+  background-color: rgba(36, 211, 37, 0.39);
+  border: 4px solid red;
+  display: inline-block;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  width: 68%;
+}
+.center {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.center_one {
+  background-color: rgba(221, 156, 33, 0.52);
+  border: 4px solid green;
+  display: inline-block;
+  height: 410px;
+  margin: 0;
+  padding: 0;
+  width: 45%;
+}
+img {
+  height: 410px;
+  width: 100%;
+}
+.center_two {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 53.3%;
+}
+
+.center_twoOne {
+  background-color: rgba(226, 226, 26, 0.5);
+  border: 4px solid black;
+  display: inline-block;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.center_twoTwo {
+  background-color: rgba(24, 149, 165, 0.69);
+  border: 4px solid gray;
+  display: inline-block;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.midle {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.midle_one {
+  background-color: rgba(208, 140, 16, 0.63);
+  border: 4px solid yellow;
+  display: inline-block;
+  height: 400px;
+  margin: 0;
+  padding: 0;
+  width: 32.5%;
+}
+.midle_two {
+  border: 4px solid gray;
+  display: inline-block;
+  height: 400px;
+  width: 32.5%;
+}
+.midle_twoOne {
+  background-color: rgba(255, 255, 0, 0.66);
+  border: 4px solid black;
+  box-sizing: border-box;
+  display: inline-block;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.midle_twoTwo {
+  background-color: rgba(176, 224, 230, 0.64);
+  border: 4px solid black;
+  box-sizing: border-box;
+  display: inline-block;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.midle_three {
+  background-color: rgba(255, 165, 0, 0.59);
+  border: 4px solid green;
+  display: inline-block;
+  height: 400px;
+  margin: 0;
+  padding: 0;
+  width: 32.5%;
+}
+.footer {
+  background-color: rgba(199, 8, 8, 0.79);
+  border: 4px solid red;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  width: 99.2%;
+}
